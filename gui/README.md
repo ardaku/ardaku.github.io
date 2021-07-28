@@ -35,6 +35,7 @@ determined "archaic", meaning modern GUI design suggests against using them.
  - [⚠ Hamburger-Menu](hamburgermenu.md)
  - [⚠ Menu-Bar](menubar.md)
  - [⚠ Pop-Up](popup.md)
+ - [⚠ Ribbon](ribbon.md)
  - [⚠ Status-bar](statusbar.md)
  - [⚠ Tab-Bar](tabbar.md)
  - [⚠ Title-Bar](titlebar.md)
