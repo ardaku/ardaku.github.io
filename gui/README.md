@@ -18,18 +18,25 @@ A widget is a window element that the user can interact with.  Examples are
 buttons, text fields, and sliders.
 
 ## Widgets
-Below is a list of all researched widgets; Widgets marked with **⚠** are labeled
-"archaic", meaning modern GUI design suggests against using them.
+Below is a list of all researched widgets; Widgets marked with **⚠** are
+determined "archaic", meaning modern GUI design suggests against using them.
 
+ - [Drawer](drawer.md)
  - [Header-Bar](headerbar.md)
  - [Hud](hud.md)
  - [Info-Pane](infopane.md)
  - [Tab-Tree](tabtree.md)
+ - [Page](page.md)
  - [Page-Bar](pagebar.md)
  - [Quick-Menu](quickmenu.md)
 
+=====
+
  - [⚠ Hamburger-Menu](hamburgermenu.md)
  - [⚠ Menu-Bar](menubar.md)
+ - [⚠ Pop-Up](popup.md)
+ - [⚠ Status-bar](statusbar.md)
  - [⚠ Tab-Bar](tabbar.md)
- - [⚠ Title-Bar](titlebar.md) 
+ - [⚠ Title-Bar](titlebar.md)
  - [⚠ Tool-Bar](toolbar.md)
+
