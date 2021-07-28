@@ -1,6 +1,9 @@
 # ⚠ Title-Bar
 **Archaic**: Use [header-bar](headerbar.md) instead for modern GUIs.
 
+![Screenshot](titlebar.png)
+> Title-bar Example Screenshot from the MuseScore application.
+
 A title-bar is a widget that appears at the top of a window, that allows you
 to drag the window around the screen (desktop-only).  The title-bar usually
 contains the title of the window in the center, a close button on the right, and
