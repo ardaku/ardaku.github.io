@@ -22,16 +22,19 @@ Below is a list of all researched widgets; Widgets marked with **⚠** are
 determined "archaic", meaning modern GUI design suggests against using them.
 
  - [Drawer](drawer.md)
+ - [Grid](grid.md)
  - [Header-Bar](headerbar.md)
- - [Info-Pane](infopane.md)
+ - [Panel](panel.md)
  - [Overlay](overlay.md)
  - [Tab-Tree](tabtree.md)
  - [Nav-Bar](navbar.md)
  - [Page](page.md)
  - [Quick-Menu](quickmenu.md)
+ - [View](view.md)
 
 =====
 
+ - [⚠ Context-Menu](contextmenu.md)
  - [⚠ Hamburger-Menu](hamburgermenu.md)
  - [⚠ Menu-Bar](menubar.md)
  - [⚠ Pop-Up](popup.md)

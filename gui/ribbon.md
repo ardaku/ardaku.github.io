@@ -1,7 +1,6 @@
 # ⚠ Ribbon
 **Archaic**: Use [Nav-Bar](navbar.md), [Header-Bar](headerbar.md),
-[Info-Pane](infopane.md), and [Quick-Menu](quickmenu.md) instead for modern
-GUIs.
+[Panel](panel.md), and [Quick-Menu](quickmenu.md) instead for modern GUIs.
 
 A ribbon is a tabbed [tool-bar](toolbar.md), mostly used in Microsoft Office.
 

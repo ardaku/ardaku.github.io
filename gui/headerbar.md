@@ -36,7 +36,7 @@ use a [tab-bar](tabbar.md) it should appear beneath the header-bar.
 
 Note how there are no widgets in the center, leaving plenty of space for the
 user to drag the window.  The leftmost hamburger button toggles the visibility
-of a [tab-drawer](tabdrawer.md).  The next two buttons are the standard back and
+of a [tab-tree](tabtree.md).  The next two buttons are the standard back and
 forward buttons of a web browser, followed by new tab, and search.  The search
 button when clicked would temporarily open an editable text field over the title
 when the user is searching for a website; and when the user presses enter,

@@ -1,6 +1,6 @@
 # ⚠ Status-Bar
 **Archaic**: Use [overlay](overlay.md), [header-bar](headerbar.md), a separate
-[page](page.md) or [infopane](infopane.md) instead for modern GUIs.
+[page](page.md) or [panel](panel.md) instead for modern GUIs.
 
 ![Screenshot](toolbar.png)
 > Status-Bar example screenshot from the Libre Office application.
