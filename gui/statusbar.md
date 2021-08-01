@@ -1,5 +1,5 @@
 # ⚠ Status-Bar
-**Archaic**: Use [hud](hud.md), [header-bar](headerbar.md), a separate
+**Archaic**: Use [overlay](overlay.md), [header-bar](headerbar.md), a separate
 [page](page.md) or [infopane](infopane.md) instead for modern GUIs.
 
 ![Screenshot](toolbar.png)
@@ -14,7 +14,8 @@ configurable settings.
 
 ## Criticism
 The status-bar waste's visual space, usually close to as much as a
-[title-bar](titlebar.md).  This space could be saved by using [huds](hud.md).
+[title-bar](titlebar.md).  This space could be saved by using
+[overlays](overlay.md).
 
 The status-bar, similar to a [title-bar](titlebar.md), does not feel integrated
 with the app, due to the fact that it's rendered as a separate pane.

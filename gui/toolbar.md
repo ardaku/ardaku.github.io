@@ -1,5 +1,5 @@
 # ⚠ Tool-Bar
-**Archaic**: Use [header-bar](headerbar.md), [page-bar](pagebar.md) and
+**Archaic**: Use [header-bar](headerbar.md), [nav-bar](navbar.md) and
 [quick-menu](quickmenu.md), instead for modern GUIs.
 
 ![Screenshot](toolbar.png)

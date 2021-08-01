@@ -5,7 +5,7 @@
 > Tab-bar example screenshot from the Chromium application.
 
 A tab-bar is a horizontal list of tabs (not to be confused with iOS tab bar,
-which is actually a [page-bar](pagebar.md)).  Tab-bars are often placed at the
+which is actually a [nav-bar](navbar.md)).  Tab-bars are often placed at the
 top of the window inside the headerbar, but sometimes below.  They allow the
 user to switch between tabs they have opened, as well as open and close tabs.
 

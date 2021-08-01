@@ -1,7 +1,7 @@
 # ⚠ Pop-Up
 **Archaic**: Use [pages](page.md), visual overlays (for things like find and
 replace) or titlebar temporary replacement widgets (for search), or
-[huds](hud.md) (for status notifications) instead for modern GUIs.
+[overlays](overlay.md) (for status notifications) instead for modern GUIs.
 
 A pop-up is a window that opens in front of another window to request input from
 the user.
@@ -23,4 +23,4 @@ should at least avoid these type of pop-ups.  These are used by Windows, Mac OS
 and GNOME for notifications, and they shouldn't be; they just waste the user's
 time because the user gets distracted and has to close them.  Important
 notifications can use a non-disruptive (not covering the usable window area)
-[hud](hud.md) located in the title section of the header-bar.
+[overlay](overlay.md) located in the title section of the header-bar.

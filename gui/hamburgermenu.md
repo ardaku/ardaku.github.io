@@ -1,5 +1,5 @@
 # ⚠ Hamburger-Menu
-**Archaic**: Use [page-bar](pagebar.md) instead for modern GUIs.
+**Archaic**: Use [nav-bar](navbar.md) instead for modern GUIs.
 
 ![Screenshot](hamburgermenu.png)
 > Hamburger-menu example screenshot from the GNOME Terminal application.

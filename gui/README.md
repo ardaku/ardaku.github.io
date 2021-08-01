@@ -23,11 +23,11 @@ determined "archaic", meaning modern GUI design suggests against using them.
 
  - [Drawer](drawer.md)
  - [Header-Bar](headerbar.md)
- - [Hud](hud.md)
  - [Info-Pane](infopane.md)
+ - [Overlay](overlay.md)
  - [Tab-Tree](tabtree.md)
+ - [Nav-Bar](navbar.md)
  - [Page](page.md)
- - [Page-Bar](pagebar.md)
  - [Quick-Menu](quickmenu.md)
 
 =====

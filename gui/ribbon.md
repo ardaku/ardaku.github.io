@@ -1,5 +1,5 @@
 # ⚠ Ribbon
-**Archaic**: Use [Page-Bar](pagebar.md), [Header-Bar](headerbar.md),
+**Archaic**: Use [Nav-Bar](navbar.md), [Header-Bar](headerbar.md),
 [Info-Pane](infopane.md), and [Quick-Menu](quickmenu.md) instead for modern
 GUIs.
 
