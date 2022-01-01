@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Luciole";
+  font-weight: normal;
+  font-style: normal;
+  src: url("mm/font/Luciole-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Luciole";
+  font-weight: bold;
+  font-style: normal;
+  src: url("mm/font/Luciole-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Luciole";
+  font-weight: normal;
+  font-style: italic;
+  src: url("mm/font/Luciole-Regular-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Luciole";
+  font-weight: bold;
+  font-style: italic;
+  src: url("mm/font/Luciole-Bold-Italic.ttf") format("truetype");
+}
+
+html, body {
+  background: var(--rust);
+  color: var(--white);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Luciole";
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 32pt;
+  margin: 0;
+  border: 0;
+  margin: 0;
+  padding: 10pt;
+  padding-bottom: 0;
+  background: var(--black);
+  color: var(--paper);
+}
+
+h2 {
+  font-size: 36pt;
+  padding-left: 24pt;
+  padding-right: 24pt;
+}
+
+h3 {
+  font-size: 32pt;
+  padding-left: 24pt;
+  padding-right: 24pt;
+}
+
+main {
+  max-width: 1200px;
+  color: var(--black);
+  padding: 0;
+  border: 0;
+  margin: 0 auto;
+  display: flex;
+  gap: 2%;
+  flex-wrap: wrap;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-bottom: 20pt;
+}
+
+div {
+  background: var(--paper);
+  border-radius: 10pt;
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-shadow: inset 0 0 0 5pt #99551BBB;
+  margin-top: 20pt;
+}
+
+section {
+  background: var(--paper);
+  border-radius: 10pt;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border: 0;
+  box-shadow: inset 0 0 0 5pt #99551BBB;
+  margin-top: 20pt;
+}
+
+section h1, div h1 {
+  font-size: 28pt;
+  background: none;
+  color: var(--black);
+  padding-left: 24pt;
+  padding-right: 24pt;
+  padding-bottom: 0pt;
+  padding-bottom: 16pt;
+  padding-top: 20pt;
+}
+
+section p, div p {
+  font-size: 16pt;
+  color: var(--black);
+  margin-top: 0;
+  padding-left: 24pt;
+  padding-right: 24pt;
+}
+
+ul {
+  padding-left: 40pt;
+  font-size: 16pt;
+  color: var(--black);
+}
+
+:root {
+  --black: #111;
+  --rust: #99551B;
+  --paper: #C9E7BC;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  div {
+    width: 49%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  html, body {
+    padding: 0;
+  }
+}

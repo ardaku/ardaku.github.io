@@ -32,9 +32,9 @@ actual rendering of graphics or playback of audio, because double-buffering will
 be used.  It's up to the application to keep track of the list of function
 pointers to call by index (alternatively, integer comparison may be used).
 
- - Request with empty message (0 length, null pointer), and future_idx set to 0
+ - Request with empty message (0 size, null pointer), and future_idx set to 0
    exits
- - Request with empty message (0 length, null pointer), and future_idx set to 1
+ - Request with empty message (0 size, null pointer), and future_idx set to 1
    suspends (for debugger)
  - Request with message at least 1 length:
    0. WASM Dynamic Plugin service
